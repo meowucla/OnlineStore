@@ -24,5 +24,15 @@ ________________________________________
 ________________________________________
 ### 7. Диспетчер:
 •	Менеджер склада.
-
+________________________________________
 # Запуск: `python -m src.main`
+________________________________________
+# Сиквенс диаграмма
+![Сиквенс диаграмма](https://github.com/meowucla/OnlineStore/blob/main/SequenceDiagram.png?raw=true)
+________________________________________
+# Диаграмма классов
+![Диаграмма классов](https://github.com/meowucla/OnlineStore/blob/main/ClassDiagram.png?raw=true)
+________________________________________
+# Флоучарт
+![Флоучарт](https://github.com/meowucla/OnlineStore/blob/main/Flowchart.png?raw=true)
+
